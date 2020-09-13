@@ -1,0 +1,19 @@
+const playlist = [
+  {
+    url: 'path/to/mp3',
+    cover: 'path/to/jpg',
+    title: 'Despacito',
+    artist: [
+      'Luis Fonsi',
+      'Daddy Yankee'
+    ]
+  },
+  {
+    url: 'path/to/mp3',
+    cover: 'path/to/jpg',
+    title: 'Bedtime Stories',
+    artist: [
+      'Jay Chou'
+    ]
+  }
+]
