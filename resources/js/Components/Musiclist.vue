@@ -101,7 +101,7 @@ export default {
           headers: {
             "x-rapidapi-host": "deezerdevs-deezer.p.rapidapi.com",
             "x-rapidapi-key":
-              "4b53101162mshdc4d68e9bdbf3b0p16a4b4jsn85719e693be8"
+              ""
           }
         })
 
